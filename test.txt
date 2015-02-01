@@ -9,3 +9,5 @@ asdfsafsdafsa
 
 
 我们修改了一个bug
+
+另外一种方法有修复了一个bug2

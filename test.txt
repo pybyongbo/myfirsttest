@@ -6,3 +6,6 @@ asdfsafsdafsa
 
 
 今天是X月Y日,我吃了个梨.
+
+
+我们修改了一个bug

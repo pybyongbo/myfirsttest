@@ -21,5 +21,3 @@ mactest
 window pc test
 
 git base ssh test again!!!!
-
-test 20190825!
